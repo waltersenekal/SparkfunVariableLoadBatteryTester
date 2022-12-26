@@ -2,6 +2,7 @@
 GUI for Sparkfun Variable Load to test Batteries
 
 I purchased one of these Variable Load kits from Sparkfun to test my lipo batteries
+https://www.sparkfun.com/products/14449
 
 I quickly found out there is no gui for the device
 
